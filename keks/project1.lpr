@@ -1,0 +1,6 @@
+program prime;
+
+begin
+
+end.
+

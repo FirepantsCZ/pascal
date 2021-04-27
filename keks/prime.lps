@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="prime.pas"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos X="17" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\pascal-main\co\auticko.pas"/>
+        <UnitName Value="Auticko"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="22" HistoryIndex="21">
+      <Position1>
+        <Filename Value="prime.pas"/>
+        <Caret Line="9" Column="6"/>
+      </Position1>
+      <Position2>
+        <Filename Value="prime.pas"/>
+        <Caret Line="29" Column="27" TopLine="10"/>
+      </Position2>
+      <Position3>
+        <Filename Value="prime.pas"/>
+        <Caret Line="27" Column="27" TopLine="13"/>
+      </Position3>
+      <Position4>
+        <Filename Value="prime.pas"/>
+        <Caret Line="36" Column="35" TopLine="22"/>
+      </Position4>
+      <Position5>
+        <Filename Value="prime.pas"/>
+        <Caret Line="11" Column="11" TopLine="5"/>
+      </Position5>
+      <Position6>
+        <Filename Value="prime.pas"/>
+        <Caret Line="41" Column="39" TopLine="26"/>
+      </Position6>
+      <Position7>
+        <Filename Value="prime.pas"/>
+        <Caret Line="43" Column="26" TopLine="20"/>
+      </Position7>
+      <Position8>
+        <Filename Value="prime.pas"/>
+        <Caret Line="40" Column="25" TopLine="30"/>
+      </Position8>
+      <Position9>
+        <Filename Value="prime.pas"/>
+        <Caret Line="41" Column="9" TopLine="29"/>
+      </Position9>
+      <Position10>
+        <Filename Value="prime.pas"/>
+        <Caret Line="40" Column="26" TopLine="29"/>
+      </Position10>
+      <Position11>
+        <Filename Value="prime.pas"/>
+        <Caret Line="41" Column="25" TopLine="30"/>
+      </Position11>
+      <Position12>
+        <Filename Value="prime.pas"/>
+        <Caret Line="42" Column="24" TopLine="30"/>
+      </Position12>
+      <Position13>
+        <Filename Value="prime.pas"/>
+        <Caret Line="41" Column="10" TopLine="32"/>
+      </Position13>
+      <Position14>
+        <Filename Value="prime.pas"/>
+        <Caret Line="44" Column="7" TopLine="30"/>
+      </Position14>
+      <Position15>
+        <Filename Value="prime.pas"/>
+        <Caret Line="43" Column="11" TopLine="29"/>
+      </Position15>
+      <Position16>
+        <Filename Value="prime.pas"/>
+        <Caret Line="42" Column="8" TopLine="30"/>
+      </Position16>
+      <Position17>
+        <Filename Value="prime.pas"/>
+        <Caret Line="44" Column="13" TopLine="32"/>
+      </Position17>
+      <Position18>
+        <Filename Value="prime.pas"/>
+        <Caret Line="34" Column="35" TopLine="23"/>
+      </Position18>
+      <Position19>
+        <Filename Value="prime.pas"/>
+        <Caret Line="60" Column="17" TopLine="40"/>
+      </Position19>
+      <Position20>
+        <Filename Value="prime.pas"/>
+        <Caret Line="58" Column="26" TopLine="44"/>
+      </Position20>
+      <Position21>
+        <Filename Value="prime.pas"/>
+        <Caret Line="69" TopLine="43"/>
+      </Position21>
+      <Position22>
+        <Filename Value="prime.pas"/>
+        <Caret Line="71" Column="9" TopLine="45"/>
+      </Position22>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

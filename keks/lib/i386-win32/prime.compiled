@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="C:\FPC\3.2.0\bin\i386-Win32\fpc.exe" Date="1355045176"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -g -gl -l -vewnhibq -FiC:\Users\paolo\Documents\keks\lib\i386-win32 -FuC:\Users\paolo\Documents\keks\ -FUC:\Users\paolo\Documents\keks\lib\i386-win32\ -FEC:\Users\paolo\Documents\keks\ -oC:\Users\paolo\Documents\keks\prime.exe prime.pas"/>
+</CONFIG>
